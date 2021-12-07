@@ -1,0 +1,1 @@
+export { BingoBoardComponent } from './bingo-board.js';
